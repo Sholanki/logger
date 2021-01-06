@@ -1,8 +1,8 @@
 #
 # Do not edit. This file was generated via the "workflow" command line tool.
-# More information about the tool can be found at github.com/xh3b4sd/workflow.
+# More information about the tool can be found at github.com/Sholanki/workflow.
 #
-#     workflow create dependabot -r xh3b4sd
+#     workflow create dependabot -r Sholanki
 #
 
 version: 2
@@ -12,7 +12,7 @@ updates:
     directory: "/"
     open-pull-requests-limit: 10
     reviewers:
-      - "xh3b4sd"
+      - "Sholanki"
     schedule:
       interval: "daily"
       time: "04:00"
@@ -22,7 +22,7 @@ updates:
     directory: "/"
     open-pull-requests-limit: 10
     reviewers:
-      - "xh3b4sd"
+      - "Sholanki"
     schedule:
       interval: "daily"
       time: "04:00"
