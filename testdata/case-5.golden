@@ -1,0 +1,8 @@
+{
+	"caller": "--REPLACED--/logger_test.go:129",
+	"foo": "bar",
+	"key": "val",
+	"level": "error",
+	"message": "foo",
+	"time": "time"
+}
