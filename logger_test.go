@@ -12,8 +12,8 @@ import (
 	"testing"
 
 	"github.com/google/go-cmp/cmp"
-	"github.com/xh3b4sd/logger/meta"
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/logger/meta"
+	"github.com/Sholanki/tracer"
 )
 
 var update = flag.Bool("update", false, "update .golden files")

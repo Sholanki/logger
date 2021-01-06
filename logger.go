@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/xh3b4sd/logger/meta"
+	"github.com/Sholanki/logger/meta"
 )
 
 const (

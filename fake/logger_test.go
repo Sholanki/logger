@@ -3,7 +3,7 @@ package fake
 import (
 	"testing"
 
-	"github.com/xh3b4sd/logger"
+	"github.com/Sholanki/logger"
 )
 
 func Test_Fake_Interface(t *testing.T) {
